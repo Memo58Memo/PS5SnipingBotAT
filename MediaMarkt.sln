@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaMarkt", "MediaMarkt.csproj", "{176FBAC0-C625-42D0-AAB4-DC11BA68567E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176FBAC0-C625-42D0-AAB4-DC11BA68567E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176FBAC0-C625-42D0-AAB4-DC11BA68567E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176FBAC0-C625-42D0-AAB4-DC11BA68567E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176FBAC0-C625-42D0-AAB4-DC11BA68567E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5C04BE-CDA3-4983-86FC-7FFC26121D14}
+	EndGlobalSection
+EndGlobal
